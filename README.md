@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajeevKumarSinha
-- 👀 I’m interested in WEB Development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in WEB Development.
+- 🌱 I’m currently working at OrderStack.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me rajeev.exousia@gmail.com
 
 <!---
